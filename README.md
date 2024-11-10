@@ -13,7 +13,9 @@
 - [Certification and Grading](#certification-and-grading)
 
 ## Introduction
-🌍 EcoSight is a powerful tool designed to enhance environmental awareness by allowing users to capture and classify flora and fauna species in real-time using advanced computer vision models. 🌿 This application aims to promote biodiversity awareness by making information about species available to the public.
+EcoSight 🌍📱🌿 is an innovative iOS app dedicated to biodiversity preservation, offering real-time recognition of flora and fauna. Designed to leverage the powerful features of the iPhone, EcoSight allows users to capture photos of nature, detect plant and animal species using Core ML, and classify them in the cloud with an AI model. 🌱🐦
+
+With **EcoSight**, every user becomes an environmental conservationist. Captured photos are geolocated and displayed on an interactive map, showcasing the species collected by the community. Users also have access to a personal gallery of the species they have identified, with details such as the name, date, and location of each capture. 📸🗺️
 
 ## Technologies Used
 - Core ML for iOS-based image processing
